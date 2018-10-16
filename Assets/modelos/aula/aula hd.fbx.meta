@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 768cbccb00713f84a9652511a6bb78bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: afiche
+    100002: //RootNode
+    100004: cajon 1
+    100006: cajon 2
+    100008: Camera
+    100010: contenedor luz
+    100012: Cube.001
+    100014: Cylinder.001
+    100016: Cylinder.003
+    100018: Cylinder.004
+    100020: Cylinder.009
+    100022: luz.001
+    100024: luz.002
+    100026: luz.003
+    100028: luz.004
+    100030: luz.005
+    100032: marcossDeMadera
+    100034: pared espalda
+    100036: pared izquierda
+    100038: perchero
+    100040: perchero.001
+    100042: perchero.002
+    100044: perchero.003
+    100046: perchero.004
+    100048: perchero.005
+    100050: perchero.006
+    100052: perchero.007
+    100054: perchero.008
+    100056: perchero.009
+    100058: perchero.010
+    100060: perchero.011
+    100062: perchero.012
+    100064: perchero.013
+    100066: piso
+    100068: piso.001
+    100070: pizzaron
+    100072: Plane.010
+    100074: Point
+    100076: Point.001
+    100078: Point.002
+    100080: Point.003
+    100082: Point.004
+    100084: Point.005
+    100086: Point.006
+    100088: Point.007
+    100090: Point.008
+    100092: poster
+    100094: poster medicion
+    100096: Sun
+    100098: Sun.001
+    100100: Sun.002
+    100102: techos
+    100104: ventana 2
+    100106: ventana 3
+    100108: ventana 4
+    100110: ventanta 1
+    400000: afiche
+    400002: //RootNode
+    400004: cajon 1
+    400006: cajon 2
+    400008: Camera
+    400010: contenedor luz
+    400012: Cube.001
+    400014: Cylinder.001
+    400016: Cylinder.003
+    400018: Cylinder.004
+    400020: Cylinder.009
+    400022: luz.001
+    400024: luz.002
+    400026: luz.003
+    400028: luz.004
+    400030: luz.005
+    400032: marcossDeMadera
+    400034: pared espalda
+    400036: pared izquierda
+    400038: perchero
+    400040: perchero.001
+    400042: perchero.002
+    400044: perchero.003
+    400046: perchero.004
+    400048: perchero.005
+    400050: perchero.006
+    400052: perchero.007
+    400054: perchero.008
+    400056: perchero.009
+    400058: perchero.010
+    400060: perchero.011
+    400062: perchero.012
+    400064: perchero.013
+    400066: piso
+    400068: piso.001
+    400070: pizzaron
+    400072: Plane.010
+    400074: Point
+    400076: Point.001
+    400078: Point.002
+    400080: Point.003
+    400082: Point.004
+    400084: Point.005
+    400086: Point.006
+    400088: Point.007
+    400090: Point.008
+    400092: poster
+    400094: poster medicion
+    400096: Sun
+    400098: Sun.001
+    400100: Sun.002
+    400102: techos
+    400104: ventana 2
+    400106: ventana 3
+    400108: ventana 4
+    400110: ventanta 1
+    2000000: Camera
+    2100000: MetalPanelRectangular001_3K.001
+    2100002: MetalStainlessSteelBrushedElongated005_3K
+    2100004: Material.006
+    2100006: Material.001
+    2100008: Material.010
+    2100010: Material.005
+    2100012: Material.042
+    2100014: Material.041
+    2100016: Material.022
+    2100018: Material.019
+    2100020: Material.020
+    2100022: WoodFlooring044_3K
+    2100024: No Name
+    2100026: Material.054
+    2100028: WoodFineDark004_3K
+    2100030: Material.004
+    2100032: Material.011
+    2100034: FabricFleece001_3K
+    2100036: Material.002
+    2300000: afiche
+    2300002: cajon 1
+    2300004: cajon 2
+    2300006: contenedor luz
+    2300008: Cube.001
+    2300010: Cylinder.001
+    2300012: Cylinder.003
+    2300014: Cylinder.004
+    2300016: Cylinder.009
+    2300018: luz.001
+    2300020: luz.002
+    2300022: luz.003
+    2300024: luz.004
+    2300026: luz.005
+    2300028: marcossDeMadera
+    2300030: pared espalda
+    2300032: pared izquierda
+    2300034: perchero
+    2300036: perchero.001
+    2300038: perchero.002
+    2300040: perchero.003
+    2300042: perchero.004
+    2300044: perchero.005
+    2300046: perchero.006
+    2300048: perchero.007
+    2300050: perchero.008
+    2300052: perchero.009
+    2300054: perchero.010
+    2300056: perchero.011
+    2300058: perchero.012
+    2300060: perchero.013
+    2300062: piso
+    2300064: piso.001
+    2300066: pizzaron
+    2300068: Plane.010
+    2300070: poster
+    2300072: poster medicion
+    2300074: techos
+    2300076: ventana 2
+    2300078: ventana 3
+    2300080: ventana 4
+    2300082: ventanta 1
+    3300000: afiche
+    3300002: cajon 1
+    3300004: cajon 2
+    3300006: contenedor luz
+    3300008: Cube.001
+    3300010: Cylinder.001
+    3300012: Cylinder.003
+    3300014: Cylinder.004
+    3300016: Cylinder.009
+    3300018: luz.001
+    3300020: luz.002
+    3300022: luz.003
+    3300024: luz.004
+    3300026: luz.005
+    3300028: marcossDeMadera
+    3300030: pared espalda
+    3300032: pared izquierda
+    3300034: perchero
+    3300036: perchero.001
+    3300038: perchero.002
+    3300040: perchero.003
+    3300042: perchero.004
+    3300044: perchero.005
+    3300046: perchero.006
+    3300048: perchero.007
+    3300050: perchero.008
+    3300052: perchero.009
+    3300054: perchero.010
+    3300056: perchero.011
+    3300058: perchero.012
+    3300060: perchero.013
+    3300062: piso
+    3300064: piso.001
+    3300066: pizzaron
+    3300068: Plane.010
+    3300070: poster
+    3300072: poster medicion
+    3300074: techos
+    3300076: ventana 2
+    3300078: ventana 3
+    3300080: ventana 4
+    3300082: ventanta 1
+    4300000: piso.001
+    4300002: perchero.013
+    4300004: perchero.012
+    4300006: perchero.011
+    4300008: perchero.010
+    4300010: perchero.009
+    4300012: perchero.008
+    4300014: perchero.007
+    4300016: perchero.006
+    4300018: perchero.005
+    4300020: perchero.004
+    4300022: perchero.003
+    4300024: perchero.002
+    4300026: perchero.001
+    4300028: cajon 1
+    4300030: cajon 2
+    4300032: perchero
+    4300034: pared espalda
+    4300036: Cylinder.009
+    4300038: luz.003
+    4300040: contenedor luz
+    4300042: luz.002
+    4300044: luz.004
+    4300046: Cylinder.004
+    4300048: Cylinder.003
+    4300050: luz.005
+    4300052: poster
+    4300054: poster medicion
+    4300056: ventana 4
+    4300058: Plane.010
+    4300060: ventanta 1
+    4300062: ventana 2
+    4300064: pared izquierda
+    4300066: luz.001
+    4300068: piso
+    4300070: Cylinder.001
+    4300072: techos
+    4300074: Cube.001
+    4300076: afiche
+    4300078: pizzaron
+    4300080: ventana 3
+    4300082: marcossDeMadera
+    10800000: Point
+    10800002: Point.001
+    10800004: Point.002
+    10800006: Point.003
+    10800008: Point.004
+    10800010: Point.005
+    10800012: Point.006
+    10800014: Point.007
+    10800016: Point.008
+    10800018: Sun
+    10800020: Sun.001
+    10800022: Sun.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricFleece001_3K
+    second: {fileID: 2100000, guid: 416dbc45fb3376a4cb337cad0def4209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 72ae8b316d7033b4cbdb24e00b161194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7ac0a5517f0bd504ab2777dc300713dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 9472d045f75855f43a147fe7dfe54e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 3165f32210e512a4795d3ccf2b2e8e3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: e3607ebc2d5a33643908cb823377ad84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: ff70993584aba9e4aa7dcaf4ee8f1e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: bcb308c65fb3b9240820dbcf28089fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: dd54a8fffd7abac45bdd9dd450038f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: c700a818b7d072f49aff12896c3290b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 2bec9a16ff5decc4c8956efb692170d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: 7dd475955506b4a44b2415fcdfc94062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: 4e1018ab86ca7644e9e5acd847dc3637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.054
+    second: {fileID: 2100000, guid: c5e816b36f25c7e47a9ab49b81db83b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalPanelRectangular001_3K.001
+    second: {fileID: 2100000, guid: 868dc8b32089a3e4fafc7d7da8682ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalStainlessSteelBrushedElongated005_3K
+    second: {fileID: 2100000, guid: 35191daa11578644b9cf496e6fb8e10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9fc1cbd8f2babbc44927851d23a65831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFineDark004_3K
+    second: {fileID: 2100000, guid: bc03dd297974f774789d00cb82377398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFlooring044_3K
+    second: {fileID: 2100000, guid: 88ab94b9a569b9848b8382007c1e9ff6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

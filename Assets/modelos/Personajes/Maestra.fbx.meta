@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e2781fd6d069604e9cd8fb6ed4a5025
+guid: 91e7158507e286b4486f24128a41126b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -2898,9 +2898,9 @@ ModelImporter:
     7400000: Camera|CameraAction
     7400002: Camera|profe izquierda
     7400004: rig|CameraAction
-    7400006: Maestra_Derecha
-    7400008: Maestra_Izquierda
-    7400010: Maestra_Saludo
+    7400006: Maestra_derecha
+    7400008: Maestra_izquierda
+    7400010: Maestra_saludo
     9500000: //RootNode
     10800000: Point
     10800002: Point.001
@@ -3001,7 +3001,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Maestra_Derecha
+      name: Maestra_derecha
       takeName: rig|profe derecha
       firstFrame: 0
       lastFrame: 49
@@ -3029,7 +3029,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Maestra_Izquierda
+      name: Maestra_izquierda
       takeName: rig|profe izquierda
       firstFrame: 0
       lastFrame: 49
@@ -3057,7 +3057,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Maestra_Saludo
+      name: Maestra_saludo
       takeName: rig|profe saludo
       firstFrame: 0
       lastFrame: 50
@@ -3087,7 +3087,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -3107,7 +3107,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    previousCalculatedGlobalScale: 0.02
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

@@ -106,8 +106,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Cutoff: 0.3
-    - _ShadowOffsetScale: 1
-    - _ShadowStrength: 0.8
+    - _ShadowOffsetScale: 3
+    - _ShadowStrength: 1
     - _SquashAmount: 1
     - _TranslucencyViewDependency: 0.7
     m_Colors:
@@ -429,7 +429,7 @@ MonoBehaviour:
     parentGroupID: -1
     childGroupIDs: 03000000
     adaptiveLODQuality: 0.8
-    shadowTextureQuality: 3
+    shadowTextureQuality: 2
     enableWelding: 1
     enableAmbientOcclusion: 1
     enableMaterialOptimize: 1
